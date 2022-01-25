@@ -16,10 +16,11 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Unix-critical"/>
+  <img src="https://img.shields.io/badge/Linux-informational"/>
   <img src="https://img.shields.io/badge/RedHat-green"/>
-  <img src="https://img.shields.io/badge/Python-yellow"/>
-  <img src="https://img.shields.io/badge/DevOps-blue"/>
-  <img src="https://img.shields.io/badge/WebDev-blueviolet"/>
+  <img src="https://img.shields.io/badge/DevOps-yellow"/>
+  <img src="https://img.shields.io/badge/Python-blue"/>
+  <img src="https://img.shields.io/badge/WebDev-orange"/>
   <img src="https://img.shields.io/badge/JavaScript-red"/>
   <img src="https://img.shields.io/badge/GameDevelopment-lightgrey"/>
 </p>
@@ -28,6 +29,6 @@ You can click the Preview link to take a look at your changes.
 
 ### About Me
 
-I like sports and creative endeavours, drawing, astronomy, and reading. Also playing videogames.
+I like sports and creative endeavours, drawing, astronomy, and reading. Also like play videogames. I need a coffee for the mornings.
 
 
