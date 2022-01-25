@@ -15,7 +15,13 @@ You can click the Preview link to take a look at your changes.
 </br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/<Unix>-<Unix>-<critical>"/>
+  <img src="https://img.shields.io/badge/Unix-critical"/>
+  <img src="https://img.shields.io/badge/RedHat-green"/>
+  <img src="https://img.shields.io/badge/Python-yellow"/>
+  <img src="https://img.shields.io/badge/DevOps-blue"/>
+  <img src="https://img.shields.io/badge/WebDev-blueviolet"/>
+  <img src="https://img.shields.io/badge/JavaScript-red"/>
+  <img src="https://img.shields.io/badge/GameDevelopment-lightgrey"/>
 </p>
   
 </br>
